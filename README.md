@@ -47,3 +47,6 @@ os
 matplotlib
 seaborn
 
+# Acknowledgement
+
+Gratitude to the team at https://www.football-data.org/ for availing the data to be accessed through the API

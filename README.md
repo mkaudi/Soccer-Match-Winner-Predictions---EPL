@@ -35,7 +35,7 @@ The trained models are:
   - DecisionTree
 
 To evaluate this, sklearn's libraries for accuracy, precision, recall and F1 score was utilized. Additionally the confusion matrices were utilized.
-Of the three models, DecisionTrees showed to be favourable due to its abilities to correctly identify best the three classes than the other two models.
+Of the three models, LogisticRegression trained model showed to be favourable due to its abilities to correctly identify best the three classes than the other two models.
 
 
 # Libraries
